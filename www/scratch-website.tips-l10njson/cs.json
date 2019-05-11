@@ -17,7 +17,7 @@
     "tips.questionsBody": "Máš více otázek? Přečti si <a href=\"/info/faq\">Často kladené otázky</a> nebo si projdi <a href=\"/discuss/7/\">nápovědu</a>.",
     "ttt.tutorial": "Návod",
     "tile.guides": "Viz Karty a Příručky",
-    "tile.tryIt": "Vyzkoušet to",
+    "tile.tryIt": "Vyzkoušej to",
     "ttt.placeholder": "Zástupný text",
     "ttt.tutorialSubtitle": "Zjisti jak vytvořit takový projekt ve Scratch pomocí tutoriálu krok za krokem.",
     "ttt.activityTitle": "Karty aktivit",
@@ -46,5 +46,5 @@
     "ttt.CatchTitle": "Hra chytání",
     "ttt.CatchDescription": "Vytvoř hru, ve které budeš chytat věci padající z nebe.",
     "ttt.VirtualPetTitle": "Virtuální mazlíček",
-    "ttt.VirtualPetDescription": "Vytvoř interaktivního mazlíčka který může jíst, pít a hrát si."
+    "ttt.VirtualPetDescription": "Vytvoř si interaktivního mazlíčka, který může jíst, pít a hrát si."
 }
